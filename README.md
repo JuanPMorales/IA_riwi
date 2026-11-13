@@ -71,6 +71,10 @@ Carpeta: `Ejercicio 3 – Página web con IA/`
 Esta carpeta contiene la documentación y los prompts usados para idear y
 especificar una plataforma web educativa llamada **DevForge**.
 
+La página web del ejercicio se encuentra en GitHub:
+
+🔗 **GitHub:** [DevForge](https://github.com/AP-Lawrence/devforge)
+
 #### `README.md`
 
 El documento recopila:
